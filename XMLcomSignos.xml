@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+
+<signos>
+
+      <signo>
+
+            <dataInicio>21/03</dataInicio>
+
+            <dataFim>20/04</dataFim>
+
+            <signoNome>Áries</signoNome>
+
+            <descricao>Quem tem sol em Áries costuma viver no agora; além de possuir um grande prazer em existir, ação e decisão também podem ser algumas de suas marcas.</descricao>
+
+      </signo>
+
+      <signo>
+
+            <dataInicio>21/04</dataInicio>
+
+            <dataFim>20/05</dataFim>
+
+            <signoNome>Touro</signoNome>
+
+            <descricao>Quem nasce com o sol no signo Touro pode se identificar com virtudes como a paciência, o bom gosto e a sensualidade.</descricao>
+
+      </signo>
+
+      <signo>
+
+            <dataInicio>21/05</dataInicio>
+
+            <dataFim>21/06</dataFim>
+
+            <signoNome>Gêmeos</signoNome>
+
+            <descricao>Quem tem sol em Gêmeos costuma apreciar novas ideias, novos lugares e novas pessoas. Gêmeos tem carisma de sobra e tende a fazer amigos com muita facilidade.</descricao>
+
+      </signo>
+
+      <signo>
+
+            <dataInicio>22/06</dataInicio>
+
+            <dataFim>22/07</dataFim>
+
+            <signoNome>Câncer</signoNome>
+
+            <descricao>Quem tem sol em Câncer costuma buscar o que lhe traz segurança. O signo é maternal e emotivo e tem uma proximidade com o apego ao passado.</descricao>
+
+      </signo>
+
+      <signo>
+
+            <dataInicio>23/07</dataInicio>
+
+            <dataFim>22/08</dataFim>
+
+            <signoNome>Leão</signoNome>
+
+            <descricao>Quem tem sol em Leão costuma amar plateias e aplausos. O signo tem a coragem e o humor como marcas registradas, mas também o orgulho e o autoritarismo.</descricao>
+
+      </signo>
+
+      <signo>
+
+            <dataInicio>23/08</dataInicio>
+
+            <dataFim>22/09</dataFim>
+
+            <signoNome>Virgem</signoNome>
+
+            <descricao>Quem tem sol em Virgem costuma buscar constantemente a perfeição, tudo sempre poderia estar um pouco melhor. Signo observador, que costuma identificar o detalhe que ninguém mais percebe.</descricao>
+
+      </signo>
+
+      <signo>
+
+            <dataInicio>23/09</dataInicio>
+
+            <dataFim>22/10</dataFim>
+
+            <signoNome>Libra</signoNome>
+
+            <descricao>Quem tem sol em Libra costuma buscar sempre o equilíbrio e conviver com a indecisão. Regido por Vênus, o signo tem uma aproximação natural com as artes.</descricao>
+
+      </signo>
+
+      <signo>
+
+            <dataInicio>23/10</dataInicio>
+
+            <dataFim>21/11</dataFim>
+
+            <signoNome>Escorpião</signoNome>
+
+            <descricao>Quem tem sol em Escorpião costuma ter muita perspicácia, não é a toa que são naturalmente detetives. O sexto sentido do signo alerta para possíveis “perigos” logo de cara.</descricao>
+
+      </signo>
+
+      <signo>
+
+            <dataInicio>22/11</dataInicio>
+
+            <dataFim>21/12</dataFim>
+
+            <signoNome>Sagitário</signoNome>
+
+            <descricao>Quem tem sol em Sagitário costuma ser viajante, sua casa é o mundo inteiro. O signo viaja muito também em sua própria mente. Não tente aprisionar Sagitário de nenhuma forma, ele não aceita limites.</descricao>
+
+      </signo>
+
+      <signo>
+
+            <dataInicio>22/12</dataInicio>
+
+            <dataFim>19/01</dataFim>
+
+            <signoNome>Capricórnio</signoNome>
+
+            <descricao>Quem tem sol em Capricórnio costuma ter seus propósitos e metas bem definidos. Signo de praticidade que segue as regras do jogo tem total noção dos seus limites. Capricórnio é maduro e bem humorado, mas também pode ser frio nas relações e um tanto pessimista.</descricao>
+
+      </signo>
+
+      <signo>
+
+            <dataInicio>20/01</dataInicio>
+
+            <dataFim>18/02</dataFim>
+
+            <signoNome>Aquário</signoNome>
+
+            <descricao>Quem tem sol em Aquário costuma ter a amizade como cartão de visita e ter uma conexão intensa com a liberdade. Signo idealista, tende a dar preferência aos diálogos racionais. Aquário é solidário e humano, também pode ser radical e bem “do contra”.</descricao>
+
+      </signo>
+
+      <signo>
+
+            <dataInicio>19/02</dataInicio>
+
+            <dataFim>20/03</dataFim>
+
+            <signoNome>Peixes</signoNome>
+
+            <descricao>Quem tem sol em Peixes costuma entender tudo sem precisar de muitas palavras, possuem uma sensibilidade superior. Signo compassivo e inspirador, Peixes tende a ter uma forte conexão com a espiritualidade, mas pode se iludir com certa facilidade.</descricao>
+
+      </signo>
+
+</signos>
